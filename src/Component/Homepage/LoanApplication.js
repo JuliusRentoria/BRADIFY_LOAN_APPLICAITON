@@ -77,7 +77,6 @@ export default function LoanApplication() {
             setData({ ...data, [id]: value });
         }
     }
-
     function submit(e) {
         e.preventDefault();
 

@@ -1,237 +1,301 @@
 {
   "application": [
     {
-      "id": "ed6e",
+      "id": "affe",
       "first_name": "JULIUS",
       "last_name": "RENTORIA",
+      "middle_initial": "0",
+      "address": "TALISAY BATANGAS",
+      "contact": "09177227048",
+      "age_value": "10",
+      "age_label": "18 TO 30",
+      "income_value": "20",
+      "income_label": "1,001 - 5,000",
+      "status_value": "20",
+      "status_label": "SELF-EMPLOYED",
+      "tenure_value": "6",
+      "tenure_label": "LESS THAN 6 MONTHS",
+      "percentage": 46
+    },
+    {
+      "id": "ce8b",
+      "first_name": "JELYN",
+      "last_name": "RENTORIA",
       "middle_initial": "O",
-      "address": "CALE TANAUAN CITY",
-      "contact": "12312313",
+      "address": "TALISAY BATANGAS",
+      "contact": "09287566476",
       "age_value": "10",
       "age_label": "18 TO 30",
       "income_value": "40",
       "income_label": "10,001 - 15,000",
       "status_value": "20",
-      "status_label": "EMPLOYED",
-      "tenure_value": "30",
-      "tenure_label": "10 YEARS AND ABOVE",
-      "percentage": 100
-    },
-    {
-      "id": "0cb1",
-      "first_name": "JULIUS",
-      "last_name": "RENTORIA",
-      "middle_initial": "O",
-      "address": "FILENVEST TANAUAN CITY",
-      "contact": "09875643854",
-      "age_value": "20",
-      "age_label": "31 TO 50",
-      "income_value": "50",
-      "income_label": "15,001 AND ABOVE",
-      "status_value": "20",
-      "status_label": "EMPLOYED",
-      "tenure_value": "40",
-      "tenure_label": "10 YEARS AND ABOVE",
-      "percentage": 130
-    },
-    {
-      "id": "2fd4",
-      "first_name": "JULIUS",
-      "last_name": "DEL ROSARIO",
-      "middle_initial": "M",
-      "address": "CALE TANAUAN CITY",
-      "contact": "09177227048",
-      "age_value": "10",
-      "age_label": "18 TO 30",
-      "income_value": "20",
-      "income_label": "1,001 - 5,000",
-      "status_value": "10",
       "status_label": "SELF-EMPLOYED",
-      "tenure_value": "12",
-      "tenure_label": "7 MONTHS TO 1 YEAR",
-      "percentage": 52
-    },
-    {
-      "id": "7038",
-      "first_name": "JULIUS",
-      "last_name": "RENTORIA",
-      "middle_initial": "O",
-      "address": "CALE TANAUAN CITY",
-      "contact": "09177227048",
-      "age_value": "20",
-      "age_label": "31 TO 50",
-      "income_value": "50",
-      "income_label": "15,001 AND ABOVE",
-      "status_value": "20",
-      "status_label": "EMPLOYED",
-      "tenure_value": "40",
-      "tenure_label": "10 YEARS AND ABOVE",
-      "percentage": 108.33333333333333
-    },
-    {
-      "id": "db51",
-      "first_name": "JULIUS",
-      "last_name": "RENTORIA",
-      "middle_initial": "O",
-      "address": "CALE TANAUAN CITY",
-      "contact": "09177227048",
-      "age_value": "20",
-      "age_label": "31 TO 50",
-      "income_value": "50",
-      "income_label": "15,001 AND ABOVE",
-      "status_value": "20",
-      "status_label": "SELF-EMPLOYED",
-      "tenure_value": "30",
-      "tenure_label": "10 YEARS AND ABOVE",
-      "percentage": 100
-    },
-    {
-      "id": "c5b6",
-      "first_name": "TRISHA",
-      "last_name": "RENTORIA",
-      "middle_initial": "O",
-      "address": "JJO",
-      "contact": "12312313",
-      "age_value": "10",
-      "age_label": "18 TO 30",
-      "income_value": "20",
-      "income_label": "1,001 - 5,000",
-      "status_value": "20",
-      "status_label": "SELF-EMPLOYED",
-      "tenure_value": "12",
-      "tenure_label": "7 MONTHS TO 1 YEAR",
-      "percentage": 51.66666666666667
-    },
-    {
-      "id": "5f1f",
-      "first_name": "JULIUS",
-      "last_name": "DEL ROSARIO",
-      "middle_initial": "M",
-      "address": "A",
-      "contact": "09177227048",
-      "age_value": "20",
-      "age_label": "31 TO 50",
-      "income_value": "40",
-      "income_label": "10,001 - 15,000",
-      "status_value": "15",
-      "status_label": "EMPLOYED",
-      "tenure_value": "18",
-      "tenure_label": "2 YEARS TO 5 YEARS",
-      "percentage": 77.5
-    },
-    {
-      "id": "4978",
-      "first_name": "JULIUS",
-      "last_name": "RENTORIA",
-      "middle_initial": "O",
-      "address": "CALE TANAUAN CITY",
-      "contact": "09177227048",
-      "age_value": "10",
-      "age_label": "18 TO 30",
-      "income_value": "20",
-      "income_label": "1,001 - 5,000",
-      "status_value": "20",
-      "status_label": "SELF-EMPLOYED",
-      "tenure_value": "12",
-      "tenure_label": "7 MONTHS TO 1 YEAR",
-      "percentage": 51
-    },
-    {
-      "id": "4e04",
-      "first_name": "ASD",
-      "last_name": "ASD",
-      "middle_initial": "W",
-      "address": "QWEQWEWQE",
-      "contact": "09177227048",
-      "age_value": "10",
-      "age_label": "18 TO 30",
-      "income_value": "20",
-      "income_label": "1,001 - 5,000",
-      "status_value": "20",
-      "status_label": "SELF-EMPLOYED",
-      "tenure_value": "12",
-      "tenure_label": "7 MONTHS TO 1 YEAR",
-      "percentage": 51
-    },
-    {
-      "id": "3d40",
-      "first_name": "EQWEQ",
-      "last_name": "WQEEQWE",
-      "middle_initial": "QWE",
-      "address": "EQWEQWE",
-      "contact": "123213",
-      "age_value": "20",
-      "age_label": "31 TO 50",
-      "income_value": "40",
-      "income_label": "10,001 - 15,000",
-      "status_value": "15",
-      "status_label": "EMPLOYED",
       "tenure_value": "24",
       "tenure_label": "6 YEARS TO 10 YEARS",
-      "percentage": 82
+      "percentage": 78
+    },
+    {
+      "id": "b3c0",
+      "first_name": "Q",
+      "last_name": "Q",
+      "middle_initial": "Q",
+      "address": "Q",
+      "contact": "1",
+      "age_value": "20",
+      "age_label": "31 TO 50",
+      "income_value": "10",
+      "income_label": "LESS THAN 1,000",
+      "status_value": "20",
+      "status_label": "SELF-EMPLOYED",
+      "tenure_value": "18",
+      "tenure_label": "2 YEARS TO 5 YEARS",
+      "percentage": 56
+    },
+    {
+      "id": "e65c",
+      "first_name": "JOJO",
+      "last_name": "RENTORIA",
+      "middle_initial": "O",
+      "address": "TALISAY BATANGAS",
+      "contact": "09287566476",
+      "age_value": "10",
+      "age_label": "18 TO 30",
+      "income_value": "40",
+      "income_label": "10,001 - 15,000",
+      "status_value": "15",
+      "status_label": "EMPLOYED",
+      "tenure_value": "30",
+      "tenure_label": "10 YEARS AND ABOVE",
+      "percentage": 79
+    },
+    {
+      "id": "26ba",
+      "first_name": "JAKE",
+      "last_name": "ORTALIZA",
+      "middle_initial": "O",
+      "address": "BAGBAG TANAUAN CITY",
+      "contact": "09198506409",
+      "age_value": "10",
+      "age_label": "18 TO 30",
+      "income_value": "40",
+      "income_label": "10,001 - 15,000",
+      "status_value": "20",
+      "status_label": "SELF-EMPLOYED",
+      "tenure_value": "18",
+      "tenure_label": "2 YEARS TO 5 YEARS",
+      "percentage": 73
+    },
+    {
+      "id": "11a2",
+      "first_name": "AIDEN",
+      "last_name": "RENTORIA",
+      "middle_initial": "M",
+      "address": "FILENVEST TANAUAN CITY",
+      "contact": "09875643854",
+      "age_value": "10",
+      "age_label": "18 TO 30",
+      "income_value": "30",
+      "income_label": "5,001 - 10,000",
+      "status_value": "20",
+      "status_label": "SELF-EMPLOYED",
+      "tenure_value": "24",
+      "tenure_label": "6 YEARS TO 10 YEARS",
+      "percentage": 70
+    },
+    {
+      "id": "b509",
+      "first_name": "AIDEN",
+      "last_name": "RENTORIA",
+      "middle_initial": "M",
+      "address": "FILENVEST TANAUAN CITY",
+      "contact": "09177227048",
+      "age_value": "20",
+      "age_label": "31 TO 50",
+      "income_value": "30",
+      "income_label": "5,001 - 10,000",
+      "status_value": "15",
+      "status_label": "EMPLOYED",
+      "tenure_value": "30",
+      "tenure_label": "10 YEARS AND ABOVE",
+      "percentage": 79
     }
   ],
   "loan": [
     {
-      "id": "e6e9",
-      "loanAmount": "1000",
-      "interestRate": "100",
-      "loanTerm": "1"
+      "id": "a22d",
+      "first_name": "JELYN",
+      "last_name": "RENTORIA",
+      "middle_initial": "O",
+      "address": "TALISAY BATANGAS",
+      "contact": "09287566476",
+      "percentage": 78,
+      "loan_amount": 0,
+      "interest": 0,
+      "due_date": "2024-05-28",
+      "status": "Completed"
     },
     {
-      "id": "8844",
-      "loanAmount": "10000",
-      "interestRate": "1000",
-      "loanTerm": "5"
+      "id": "baff",
+      "first_name": "JELYN",
+      "last_name": "RENTORIA",
+      "middle_initial": "O",
+      "address": "TALISAY BATANGAS",
+      "contact": "09287566476",
+      "percentage": 78,
+      "loan_amount": 0,
+      "interest": 0,
+      "due_date": "2024-05-28"
+    },
+    {
+      "id": "daad",
+      "first_name": "Q",
+      "last_name": "Q",
+      "middle_initial": "Q",
+      "address": "Q",
+      "contact": "1",
+      "percentage": 56,
+      "loan_amount": 0,
+      "interest": 0,
+      "due_date": "2024-05-28",
+      "status": "Completed"
+    },
+    {
+      "id": "b71a",
+      "first_name": "JOJO",
+      "last_name": "RENTORIA",
+      "middle_initial": "O",
+      "address": "TALISAY BATANGAS",
+      "contact": "09287566476",
+      "percentage": 79,
+      "loan_amount": 0,
+      "interest": 0,
+      "due_date": "2024-05-28"
+    },
+    {
+      "id": "9292",
+      "first_name": "JAKE",
+      "last_name": "ORTALIZA",
+      "middle_initial": "O",
+      "address": "BAGBAG TANAUAN CITY",
+      "contact": "09198506409",
+      "percentage": 73,
+      "loan_amount": 0,
+      "interest": 0,
+      "due_date": "2024-05-28"
+    },
+    {
+      "id": "585e",
+      "first_name": "AIDEN",
+      "last_name": "RENTORIA",
+      "middle_initial": "M",
+      "address": "FILENVEST TANAUAN CITY",
+      "contact": "09177227048",
+      "percentage": 79,
+      "loan_amount": 17800,
+      "interest": 1780,
+      "due_date": "2024-05-28"
     }
   ],
-  "register": [
+  "repayment": [
     {
-      "id": "8836",
-      "username": "admin",
-      "password": "123"
+      "id": "f67b",
+      "loanId": "b71a",
+      "repaymentDate": "2024-05-21T18:52:50.633Z"
     },
     {
-      "id": "0e19",
-      "username": "123",
-      "password": "123"
+      "id": "6f9d",
+      "loanId": "b71a",
+      "repaymentDate": "2024-05-21T18:53:47.996Z"
+    },
+    {
+      "id": "97a1",
+      "loanId": "b71a",
+      "repaymentDate": "2024-05-21T18:54:54.194Z"
+    },
+    {
+      "id": "5acd",
+      "loanId": "b71a",
+      "repaymentDate": "2024-05-21T19:16:25.539Z"
+    },
+    {
+      "id": "78fe",
+      "loanId": "b71a",
+      "repaymentDate": "2024-05-21T19:18:41.734Z"
+    },
+    {
+      "id": "2bc1",
+      "loanId": "b71a",
+      "repaymentDate": "2024-05-21T19:23:25.367Z"
+    },
+    {
+      "id": "818a",
+      "loanId": "b71a",
+      "repaymentDate": "2024-05-21T19:53:43.325Z"
+    },
+    {
+      "id": "d5c2",
+      "loanId": "9292",
+      "repaymentDate": "2024-05-21T20:05:32.207Z"
+    },
+    {
+      "id": "1c7e",
+      "loanId": "9292",
+      "repaymentDate": "2024-05-21T20:22:04.094Z"
+    },
+    {
+      "id": "980b",
+      "loanId": "11bb",
+      "repaymentDate": "2024-05-21T20:54:53.437Z"
+    },
+    {
+      "id": "9ba0",
+      "loanId": "585e",
+      "repaymentDate": "2024-05-21T21:06:52.357Z"
+    },
+    {
+      "id": "0029",
+      "loanId": "585e",
+      "firstName": "AIDEN",
+      "lastName": "RENTORIA",
+      "repaymentDate": "2024-05-21T21:22:48.404Z"
+    },
+    {
+      "id": "a296",
+      "loanId": "585e",
+      "firstName": "AIDEN",
+      "lastName": "RENTORIA",
+      "repaymentDate": "2024-05-21T21:24:55.645Z"
+    },
+    {
+      "id": "6fe9",
+      "loanId": "585e",
+      "firstName": "AIDEN",
+      "lastName": "RENTORIA",
+      "repaymentDate": "2024-05-21T21:38:47.822Z"
+    },
+    {
+      "id": "c985",
+      "loanId": "585e",
+      "firstName": "AIDEN",
+      "lastName": "RENTORIA",
+      "repaymentDate": "2024-05-21T21:44:56.060Z"
     }
   ],
-  "login": [
+  "completed": [
     {
-      "id": "6932",
-      "username": "admin",
-      "password": "123"
-    },
-    {
-      "id": "7548",
-      "username": "admin",
-      "password": "123"
-    },
-    {
-      "id": "224a",
-      "username": "",
-      "password": ""
-    },
-    {
-      "id": "646e",
-      "username": "admin",
-      "password": "123"
-    },
-    {
-      "id": "005b",
-      "username": "admin",
-      "password": "123"
-    },
-    {
-      "id": "c1d1",
-      "username": "admin",
-      "password": "123"
-    },
-    {
-      "id": "b235",
-      "username": "admin",
-      "password": "123"
+      "id": "a22d",
+      "first_name": "JELYN",
+      "last_name": "RENTORIA",
+      "middle_initial": "O",
+      "address": "TALISAY BATANGAS",
+      "contact": "09287566476",
+      "percentage": 78,
+      "loan_amount": 0,
+      "interest": 0,
+      "due_date": "2024-05-28",
+      "status": "Completed"
     }
-  ]
+  ],
+  "register": [],
+  "login": []
 }

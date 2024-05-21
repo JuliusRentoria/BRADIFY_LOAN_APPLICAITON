@@ -12,6 +12,7 @@ import Pending from './Component/Homepage/PendingList';
 import Homepage from './Component/Homepage/Homepage';
 import { LoanDataProvider } from './Component/Homepage/LoanDataContext';
 import Nav from './Component/Homepage/Nav';
+import RepaymentPage from './Component/Homepage/RepaymentPage';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         <Route exact path="/homepage/loan" element={<LoanForm />} />
         <Route exact path="/homepage/transaction" element={<Transaction />} />
         <Route exact path="/homepage/pending" element={<Pending />} />
+        <Route exact path="/homepage/pending/repayment/:id" element={<RepaymentPage />} />
       </Routes>
     </LoanDataProvider>
   );

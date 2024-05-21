@@ -55,6 +55,9 @@ export default function Homepage() {
         setSearchInput(e.target.value);
         const filteredData = filterData(e.target.value);
         setData(filteredData);
+        if (e.target.value === '') {
+            fetchData(); // Reset to all data when search input is cleared
+        }
     };
 
     if (loading) return <div>Loading...</div>;
